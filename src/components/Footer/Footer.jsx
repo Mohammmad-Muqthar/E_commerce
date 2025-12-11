@@ -2,9 +2,14 @@ export default function Footer()
 {
     return(
         <>
-        <span>
-            this is a footer..
-        </span>
+        <footer className="container">
+            <center>
+<div className="container">
+ all the copies are reserved by &copy; MUQTHAR
+</div>
+</center>
+
+        </footer>
         </>
     )
 }
